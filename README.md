@@ -20,4 +20,4 @@
 ***Endoc Computer Check Paper - 50 Pack - Blank Stock Check on Top and Stub on Bottom - Security Features & Laser Printer Compatible for Home and Business – Blue Diamond*** 
 
 
-<span style="color: blue;">**(Available on [<span style="color: red;">Amazon</span>](https://www.amazon.com/dp/B084BXRVZT?psc=1&ref=ppx_yo2ov_dt_b_product_details))**</span>
+**(Available on [Amazon](https://www.amazon.com/dp/B084BXRVZT?psc=1&ref=ppx_yo2ov_dt_b_product_details))**
