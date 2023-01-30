@@ -31,4 +31,5 @@ To print checks correctly you need to install the MICR font. Download them from 
 **(Available at [Amazon](https://www.amazon.com/dp/B084BXRVZT?psc=1&ref=ppx_yo2ov_dt_b_product_details))**
 
 
-## Stuart Fraser
+## Author
+Stuart Fraser
