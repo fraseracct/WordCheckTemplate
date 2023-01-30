@@ -24,7 +24,7 @@ To print checks correctly you need to install the MICR font. Download them from 
 
 ***Brother MFC-J6955DW printer.***
 
-**(Available at [Brother MFC-J6955DW](https://www.brother-usa.com/products/mfcj6955dw))**
+**(Available at [Brother](https://www.brother-usa.com/products/mfcj6955dw))**
 
 ***Endoc Computer Check Paper - 50 Pack - Blank Stock Check on Top and Stub on Bottom - Security Features & Laser Printer Compatible for Home and Business – Blue Diamond***
 
