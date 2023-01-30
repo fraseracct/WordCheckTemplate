@@ -7,7 +7,7 @@
 
 ## Fonts
 
-To print checks correctly you need to install the MICR font. Download them from ![here](https://www.1001fonts.com/download/micr-encoding.zip). Unzip the file. Right click the file micrenc.ttf and select install. The font will now show correctly at the bottom of the Word document.
+To print checks correctly you need to install the MICR font. Download them from [micr-encoding.zip](/micr-encoding.zip). (See https://www.1001fonts.com/download/micr-encoding.zip) Unzip the file. Right click the file micrenc.ttf and select install. The font will now show correctly at the bottom of the Word document.
 
 
 ## Sample Image
